@@ -86,7 +86,7 @@ Default weights:
 
 
 ## 🖼️ Example Output
-Screenshots...
+![Example](https://github.com/user-attachments/assets/ff8f3f14-0f1d-4514-98f0-e9ae740a9f06"/)
 
 
 
