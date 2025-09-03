@@ -41,10 +41,25 @@ Main-Object-Detector/
 
 
 ## ⚙️ Installation
-Clone the repo and install requirements:
+Clone the repo:
 ```bash
 git clone https://github.com/harshpatel2312/Main-Object-Detector.git
 cd Main-Object-Detector
+```
+
+Create virtual environment (Optional, but recommended):
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# macOS/Linux
+source venv/bin/activate
+```
+
+Install requirements:
+```bash
 pip install -r requirements.txt
 ```
 
