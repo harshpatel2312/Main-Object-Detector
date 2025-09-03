@@ -11,3 +11,5 @@ images/
 
 # Other
 *.pt
+.idea/
+.vs/
