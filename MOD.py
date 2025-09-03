@@ -1,7 +1,5 @@
-import cv2
 import numpy as np
 from ultralytics import YOLO
-from PIL import Image
 
 def pick_main_object(img):
     # img_arr = np.array(img)
