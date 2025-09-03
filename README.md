@@ -97,5 +97,5 @@ Default weights:
 
 
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 Developed by **Harsh Patel**
