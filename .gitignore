@@ -7,7 +7,9 @@ __pycache__/
 *.ipynb
 
 # Data
-images/
+#images/
 
 # Other
 *.pt
+.idea/
+.vs/
